@@ -8,7 +8,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Manda-39393/azure-network-protocols)
+  - [Network File Share and Permissions](https://github.com/Manda-39393/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
