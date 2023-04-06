@@ -11,7 +11,7 @@
   - [Network File Share and Permissions](https://github.com/Manda-39393/Network-File-Shares-and-Permissions)
 
 - <b>Wireshark Firewall Intro Practice</b>
-  - [Observing Traffic within VMs Using Wireshark](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
+  - [Observing Traffic within VMs Using Wireshark]()
   
 
 <h2>Connect with me:</h2>
