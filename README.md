@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
   - [Network File Share and Permissions](https://github.com/Manda-39393/Network-File-Shares-and-Permissions)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
+  - [Creating Cybersecurity Attacks Using Azure VM and Powershell ISE](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
 
 - <b>Wireshark Firewall Intro Practice</b>
   - [Observing Traffic within VMs Using Wireshark](https://github.com/Manda-39393/Wireshark-Firewall)
