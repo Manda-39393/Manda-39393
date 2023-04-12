@@ -13,7 +13,10 @@
 - <b>Wireshark Firewall Intro Practice</b>
   - [Observing Traffic within VMs Using Wireshark](https://github.com/Manda-39393/Wireshark-Firewall)
   
-
+-  <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/Manda-39393/Configuring-Active-Directory-within-Azure-VMs)
+ 
+ 
 <h2>Connect with me:</h2>
 
 
