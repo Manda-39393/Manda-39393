@@ -14,7 +14,8 @@
   
 - <b>Wireshark Firewall Intro Practice</b>
   - [Observing Traffic within VMs Using Wireshark](https://github.com/Manda-39393/Wireshark-Firewall)
-- <b>Understanding Nmap</b>  
+- <b>Understanding Nmap</b>
+- <b>AppleOS, Installation, User Accounts, and File Systems
 <h2>Connect with me:</h2>
 
 
